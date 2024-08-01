@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\FaceCascade\haarcascade_frontalface_alt_tree.xml
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\FaceCascade\haarcascade_profileface.xml
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\FaceRec.exe
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\FaceRec.dll
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\FaceRec.deps.json
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\FaceRec.runtimeconfig.json
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\FaceRec.pdb
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\OpenCvSharp.dll
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\OpenCvSharp.Extensions.dll
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\System.Drawing.Common.dll
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\Admin\Documents\Programming\Facial Recognition Project\V1.4 - First Commit FINAL VERSION\FaceRec Publish\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll

@@ -1,0 +1,26 @@
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\bin\Debug\net6.0-windows\Face Rec Tmp.exe
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\bin\Debug\net6.0-windows\Face Rec Tmp.deps.json
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\bin\Debug\net6.0-windows\Face Rec Tmp.runtimeconfig.json
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\bin\Debug\net6.0-windows\Face Rec Tmp.dll
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\bin\Debug\net6.0-windows\Face Rec Tmp.pdb
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face Rec Tmp.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face Rec Tmp.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face Rec Tmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face Rec Tmp.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face Rec Tmp.AssemblyInfo.cs
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face Rec Tmp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face Rec Tmp.csproj.CopyComplete
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face Rec Tmp.dll
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\refint\Face Rec Tmp.dll
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face Rec Tmp.pdb
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face Rec Tmp.genruntimeconfig.cache
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\ref\Face Rec Tmp.dll
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face_Rec_Tmp.faceRec.resources
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\bin\Debug\net6.0-windows\FaceCascade\haarcascade_frontalface_alt_tree.xml
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face_Rec_Tmp.Properties.Resources.resources
+C:\Users\Admin\Documents\Programming\Misc\Face Rec Tmp\Face Rec Tmp\obj\Debug\net6.0-windows\Face_Rec_Tmp.Help.resources
