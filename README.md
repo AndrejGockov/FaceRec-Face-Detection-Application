@@ -33,6 +33,7 @@ I will be refering to both as frames for simplicity, so from here on out know th
 
 FaceRec will take a frame which is inputted from any of the following functions:
 
+
     picBox_DragDrop(object sender, DragEventArgs e)
     uploadImage_Click(object sender, EventArgs e)
     openCamera_Click(object sender, EventArgs e)
@@ -42,6 +43,7 @@ From here on, the function's that will be called are located in the file Recogni
 
 Inside each of the above functions, except for openCamera_Click(), the program checks if the file type uploaded is valid by calling the function:
 If the file checks, it moves on to the next step.
+
 
     invalidFile(string filePath)
 
@@ -57,6 +59,7 @@ It loads up two XML files for detecting the front face and the profile, then the
 One thing to note is that the file for the profile shots cannot detect faces turned to the right,
 to solve this the program horizontally flips the original image.
 
+
     Mat flippedImage = grayImage;
     Cv2.Flip(flippedImage, flippedImage, FlipMode.Y);
     Rect[] rightFaces = sideCascClassifier.DetectMultiScale(
@@ -64,6 +67,7 @@ to solve this the program horizontally flips the original image.
         
 <br />
 Afterwards it takes the result and calculates to get the original coordinates of the face in the frame:
+
 
     Rect[] rightSideFaces = new Rect[rightFaces.Length];
 
@@ -76,6 +80,7 @@ Afterwards it takes the result and calculates to get the original coordinates of
 <br />
 Now it's nearly done, all that's left to do is store every frame in one array:
 
+
     Rect[] faces = new Rect[frontFaces.Length + leftSideFaces.Length + rightSideFaces.Length];
     frontFaces.CopyTo(faces, 0);
     leftSideFaces.CopyTo(faces, frontFaces.Length);
@@ -83,5 +88,6 @@ Now it's nearly done, all that's left to do is store every frame in one array:
 
 <br />
 And return the result by calling another function, drawRectangles(Mat img, Rect[] faces, int i), which draws a rectangle around the faces found in the frame.
+
 
     return drawRectangles(img, faces, 0);
