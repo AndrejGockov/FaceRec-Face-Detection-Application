@@ -1,7 +1,7 @@
 # FaceRec-Face-Detection-Application
-Face detection application 
 
 ## About the project
+- [Download](https://drive.google.com/drive/folders/1wJg2BOg26PZanwKYoU6Z8deqSVYScPto?usp=sharing)
 - [Summary](#Summary)
 - [Tools](#Tools)
 - [Packages](#Packages)
@@ -22,4 +22,7 @@ NuGet packages used to create this project:
 - #### OpenCV (2.4.11)
 - #### OpenCVSharp4 (4.10.0.20240616)
 - #### OpenCVSharp4.runtime.win (4.10.0.20240616)
+- #### OpenCVSharp4.Extensions (4.10.0.20240616)
 - #### System.Drawing.Common (8.0.7)
+
+## How it works
