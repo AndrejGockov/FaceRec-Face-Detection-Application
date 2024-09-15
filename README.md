@@ -32,6 +32,7 @@ The program takes in individual images or frames from the camera.
 I will be refering to both as frames for simplicity, so from here on out know that the same applies for both.
 
 FaceRec will take a frame which is inputted from any of the following functions:
+
 <br />
 
     picBox_DragDrop(object sender, DragEventArgs e)
@@ -49,6 +50,8 @@ If the file checks, it moves on to the next step.
 
 <br />
 Afterwards it sets the Picturebox to the following:
+<br />
+
     
     picBox.Image = Recognition.detectFaces(frame).ToBitmap();
 
@@ -60,6 +63,7 @@ One thing to note is that the file for the profile shots cannot detect faces tur
 to solve this the program horizontally flips the original image.
 <br />
 
+
     Mat flippedImage = grayImage;
     Cv2.Flip(flippedImage, flippedImage, FlipMode.Y);
     Rect[] rightFaces = sideCascClassifier.DetectMultiScale(
@@ -67,6 +71,7 @@ to solve this the program horizontally flips the original image.
         
 <br />
 Afterwards it takes the result and calculates to get the original coordinates of the face in the frame:
+
 <br />
 
     Rect[] rightSideFaces = new Rect[rightFaces.Length];
@@ -79,6 +84,7 @@ Afterwards it takes the result and calculates to get the original coordinates of
 
 <br />
 Now it's nearly done, all that's left to do is store every frame in one array:
+
 <br />
 
     Rect[] faces = new Rect[frontFaces.Length + leftSideFaces.Length + rightSideFaces.Length];
@@ -88,6 +94,7 @@ Now it's nearly done, all that's left to do is store every frame in one array:
 
 <br />
 And return the result by calling another function, drawRectangles(Mat img, Rect[] faces, int i), which draws a rectangle around the faces found in the frame.
+
 <br />
 
     return drawRectangles(img, faces, 0);
