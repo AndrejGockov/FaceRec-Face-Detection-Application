@@ -2,6 +2,8 @@
 
 ### [Download](https://drive.google.com/drive/folders/1wJg2BOg26PZanwKYoU6Z8deqSVYScPto?usp=sharing)
 
+![image](https://github.com/user-attachments/assets/b572d014-033e-49d1-8734-6d0ffebaa0f0)
+
 ## About the project
 - [Summary](#Summary)
 - [Download](https://drive.google.com/drive/folders/1wJg2BOg26PZanwKYoU6Z8deqSVYScPto?usp=sharing)
